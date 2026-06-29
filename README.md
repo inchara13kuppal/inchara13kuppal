@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=200&section=header&text=Inchara%20K%20Kuppal&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student%20|%20AI%20%26%20Systems%20Programming&descAlignY=75&descAlign=62" alt="Header" />
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=2500&color=7B68EE&center=true&vCenter=true&width=600&height=100&lines=%5B%2A%26%24%23%40!%5E%25%2A%26%24%23%40!%5D;INCHARA+K+KUPPAL" alt="Decrypted Name Animation" />
+  </a>
+
 
   <br />
   
@@ -106,7 +109,7 @@
   | **Stack** | Python, PandasLLM, API Integrations |
   | **Scale** | Capstone Intensive |
   | **Focus** | AI Agent Optimization |
-  | **Repository** | [View Source](#) |
+  
   
   *Developed step-by-step logic to overcome API integration constraints, resulting in a reliable agent that processes sales metrics efficiently.*
 </details>
@@ -122,7 +125,7 @@
   | **Stack** | AI, NLP, UI/UX |
   | **Scale** | CIE Spark 2025 Ideathon |
   | **Impact** | Top 13 Finalist |
-  | **Repository** | [View Source](#) |
+  
   
   *Led the team through rigorous validation phases, ensuring the product logic was sound and addressed authentic artisan pain points.*
 </details>
@@ -138,7 +141,7 @@
   | **Stack** | C/C++, Network Sockets, SSL |
   | **Performance** | Concurrent client handling |
   | **Security** | SSL Certificate Integration |
-  | **Repository** | [View Source](#) |
+ 
   
   *Focused heavily on memory management and process scheduling to prevent bottlenecks during multiple simultaneous connections.*
 </details>
@@ -154,7 +157,7 @@
   | **Stack** | Figma, Canva, UI/UX Principles |
   | **Scale** | 30-Hour Designathon |
   | **Role** | Team Lead |
-  | **Repository** | [View Source](#) |
+ 
   
   *Directed the visual design and user flow to ensure the final prototype was accessible to users with varying technical literacy.*
 </details>
@@ -163,7 +166,7 @@
 
 ---
 
-### 💼 Experience & Leadership
+###  Experience & Leadership
 
 **Open Source Contributor** | *Sugar Labs & OWASP DSOMM*
 > *Dec 2025 – Present*
@@ -185,16 +188,15 @@
 
 ---
 
-### 🏆 Achievements
+###  Achievements
 
 <div align="center">
 
 | Recognition | Details |
 | :--- | :--- |
 | **Top 13 Finalist** | CIE Spark 2025 Ideathon at PES University. |
-| **Finalist** | HashCode 13.0 Hackathon. |
-| **Round 2 Qualifier** | The Big Code coding challenge organized by Google India. |
-| **Participant** | GitLab AI Hackathon (GitLab Duo Agent Platform). |
+| **Round 2 Qualifier** | Top 1500 performer in The Big Code coding challenge organized by Google India. |
+| **Participant** | Google and Kaggle Intensive AI Course . |
 
 </div>
 
@@ -202,11 +204,11 @@
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
 <div align="center">
   <img src="https://img.shields.io/badge/Microsoft-AI--900_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/University_of_Tokyo-GCI_World_2026-4B0082?style=for-the-badge&logo=academia&logoColor=white" alt="Tokyo" />
+
   <img src="https://img.shields.io/badge/Kaggle-AI_Intensive-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </div>
 
@@ -214,7 +216,7 @@
 
 ---
 
-### 🧑‍💻 Coding Profiles
+###  Coding Profiles
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/LeetCode-Intermediate-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
@@ -226,20 +228,7 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inchara13kuppal&show_icons=true&theme=tokyonight&title_color=7B68EE&icon_color=8A2BE2&text_color=a9a9a9&bg_color=0D1117&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inchara13kuppal&theme=tokyonight&ring=7B68EE&fire=8A2BE2&currStreakLabel=8A2BE2&bg_color=0D1117&hide_border=true" alt="GitHub Streak" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inchara13kuppal&layout=compact&theme=tokyonight&title_color=7B68EE&text_color=a9a9a9&bg_color=0D1117&hide_border=true" alt="Top Languages" width="50%" />
-</div>
-
-<br />
-
----
-
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=inchara13kuppal&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
@@ -249,7 +238,7 @@
 
 ---
 
-### 📈 Contribution Activity
+###  Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=inchara13kuppal&theme=tokyo-night&bg_color=0D1117&color=7B68EE&line=8A2BE2&point=ffffff&hide_border=true" alt="Activity Graph" />
@@ -259,17 +248,8 @@
 
 ---
 
-### 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/inchara13kuppal/inchara13kuppal/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
-
-<br />
-
----
-
-### 🎯 Current Focus
+###  Current Focus
 
 ```yaml
 Learning:
