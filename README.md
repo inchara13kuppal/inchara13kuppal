@@ -16,16 +16,12 @@
 
   <br /><br />
 
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/inchara-k-kuppal/"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:incharakkuppal@gmail.com"><img src="https://img.shields.io/badge/Email-7B68EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/inchara13kuppal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=inchara13kuppal&color=7B68EE&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/inchara13kuppal?color=8A2BE2&style=flat-square&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/inchara13kuppal?color=4B0082&style=flat-square" alt="Stars" />
 </div>
 
 <br />
@@ -92,77 +88,6 @@
 </div>
 
 <br />
-
----
-
-### 🚀 Featured Projects
-
-<details>
-  <summary><b> SalesCatalyst AI</b></summary>
-  <br>
-  A Sales Performance Optimization Agent built as a Kaggle capstone project. Designed to interpret complex sales data and generate actionable insights using LLM integrations.
-  <br><br>
-  
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Python, PandasLLM, API Integrations |
-  | **Scale** | Capstone Intensive |
-  | **Focus** | AI Agent Optimization |
-  
-  
-  *Developed step-by-step logic to overcome API integration constraints, resulting in a reliable agent that processes sales metrics efficiently.*
-</details>
-
-<details>
-  <summary><b> Traid Kernels (Vernacular AI)</b></summary>
-  <br>
-  A vernacular AI solution aimed at assisting local artisans by bridging language barriers in commerce.
-  <br><br>
-  
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | AI, NLP, UI/UX |
-  | **Scale** | CIE Spark 2025 Ideathon |
-  | **Impact** | Top 13 Finalist |
-  
-  
-  *Led the team through rigorous validation phases, ensuring the product logic was sound and addressed authentic artisan pain points.*
-</details>
-
-<details>
-  <summary><b> Secure Multi-Client Sockets</b></summary>
-  <br>
-  A backend systems project implementing multi-client server communication with integrated SSL encryption.
-  <br><br>
-  
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | C/C++, Network Sockets, SSL |
-  | **Performance** | Concurrent client handling |
-  | **Security** | SSL Certificate Integration |
- 
-  
-  *Focused heavily on memory management and process scheduling to prevent bottlenecks during multiple simultaneous connections.*
-</details>
-
-<details>
-  <summary><b> Lumina</b></summary>
-  <br>
-  A market strategy and UI/UX design prototype for artisan empowerment, developed during the Parallax 3.0 designathon.
-  <br><br>
-  
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Figma, Canva, UI/UX Principles |
-  | **Scale** | 30-Hour Designathon |
-  | **Role** | Team Lead |
- 
-  
-  *Directed the visual design and user flow to ensure the final prototype was accessible to users with varying technical literacy.*
-</details>
-
-<br />
-
 ---
 
 ###  Experience & Leadership
@@ -226,20 +151,3 @@
 <br />
 
 ---
-
-
-
-###  Current Focus
-
-```yaml
-Learning:
-  - Gilbert Strang's Linear Algebra applications
-  - ARM Assembly & RISC-V Architecture
-  - Operating System Kernel memory management
-Building:
-  - Dam maintenance and irrigation canal simulator (Unity)
-  - Sales and Vernacular AI Agents
-Exploring:
-  - GSoC 2026 / GSSoC / LFX Mentorship Opportunities
-Open To:
-  - Collaborative systems programming and AI implementation projects
