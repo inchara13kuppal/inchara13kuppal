@@ -32,7 +32,7 @@
 
 ---
 
-### 💻 About Me
+###  About Me
 
 <div align="center">
   <table>
@@ -40,7 +40,7 @@
       <td>
         I am a <b>Computer Science and Engineering undergraduate</b> at PES University with a foundation in systems programming and AI application development. Having transitioned from a Diploma in CSE, I focus on practical, step-by-step problem solving and building systems that range from low-level architecture to real-world AI implementations. My core engineering philosophy centers on learning through active building and collaborating within open-source communities.
         <br><br>
-        <b>Open To:</b> Open-source collaborations (GSoC, GSSoC), AI agent development, and challenging systems programming opportunities.
+        <b>Open To:</b> Open-source collaborations (GSoC), AI agent development, and challenging systems programming opportunities.
       </td>
     </tr>
   </table>
@@ -50,7 +50,7 @@
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 
 ---
 
-### 🧠 AI & Domain Expertise
+###  AI & Domain Expertise
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 | **AI Agents & LLMs** | Intermediate | Developing optimization agents using PandasLLM; API integration. |
 | **Low-Level Architecture** | Intermediate | ARM assembly, RISC-V, process scheduling, and memory management. |
 | **Applied Mathematics** | Intermediate | Implementing Linear Algebra algorithms based on Gilbert Strang's models. |
-| **Game & Simulation Dev** | Learning | Educational physics simulations in Unity (e.g., dam/irrigation models). |
+| **AR / VR** | Intermediate | 3D reconstruction Using 2D video . |
 
 </div>
 
@@ -98,7 +98,7 @@
 ### 🚀 Featured Projects
 
 <details>
-  <summary><b>🤖 SalesCatalyst AI</b></summary>
+  <summary><b> SalesCatalyst AI</b></summary>
   <br>
   A Sales Performance Optimization Agent built as a Kaggle capstone project. Designed to interpret complex sales data and generate actionable insights using LLM integrations.
   <br><br>
@@ -114,7 +114,7 @@
 </details>
 
 <details>
-  <summary><b>🛠️ Traid Kernels (Vernacular AI)</b></summary>
+  <summary><b> Traid Kernels (Vernacular AI)</b></summary>
   <br>
   A vernacular AI solution aimed at assisting local artisans by bridging language barriers in commerce.
   <br><br>
@@ -130,7 +130,7 @@
 </details>
 
 <details>
-  <summary><b>🔒 Secure Multi-Client Sockets</b></summary>
+  <summary><b> Secure Multi-Client Sockets</b></summary>
   <br>
   A backend systems project implementing multi-client server communication with integrated SSL encryption.
   <br><br>
@@ -146,7 +146,7 @@
 </details>
 
 <details>
-  <summary><b>🎨 Lumina</b></summary>
+  <summary><b> Lumina</b></summary>
   <br>
   A market strategy and UI/UX design prototype for artisan empowerment, developed during the Parallax 3.0 designathon.
   <br><br>
@@ -218,34 +218,15 @@
 ###  Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Intermediate-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Contributor-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kaggle-Practitioner-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://leetcode.com/u/inchara13kuppal/"><img src="https://img.shields.io/badge/LeetCode-Intermediate-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://github.com/inchara13kuppal"><img src="https://img.shields.io/badge/GitHub-Contributor-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.kaggle.com/incharakkuppal"><img src="https://img.shields.io/badge/Kaggle-Practitioner-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 </div>
 
 <br />
 
 ---
 
-###  GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inchara13kuppal&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
-<br />
-
----
-
-###  Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inchara13kuppal&theme=tokyo-night&bg_color=0D1117&color=7B68EE&line=8A2BE2&point=ffffff&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br />
-
----
 
 
 ###  Current Focus
