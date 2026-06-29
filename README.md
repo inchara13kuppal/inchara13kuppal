@@ -6,7 +6,7 @@
   <br />
   
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+PES+University;Building+AI+Agents+&+Systems;Open+Source+Contributor;Exploring+Low-Level+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+PES+University" alt="Typing SVG" />
   </a>
 
   <br />
