@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&duration=1500&pause=2000&color=FF0000&center=true&vCenter=true&width=600&height=100&lines=%5B%2A%26%24%23%40!%5E%25%2A%26%24%23%40!%5D;INCHARA+K+KUPPAL" alt="Decrypted Name Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&duration=1500&pause=2000&color=FBF4F4&center=true&vCenter=true&width=600&height=100&lines=%5B%2A%26%24%23%40!%5E%25%2A%26%24%23%40!%5D;INCHARA+K+KUPPAL" alt="Decrypted Name Animation" />
   </a>
 
   <br />
