@@ -130,9 +130,9 @@
 ###  Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Microsoft-AI--900_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure" />
+  <a href="https://learn.microsoft.com/en-us/users/incharakkuppal-0622/achievements/3794r2eh?ref=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://img.shields.io/badge/Microsoft-AI--900_Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Azure" />
 
-  <img src="https://img.shields.io/badge/Kaggle-AI_Intensive-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <a href="https://www.kaggle.com/competitions/agents-intensive-capstone-project/writeups/Sales-Performance-Optimization-Agent"><img src="https://img.shields.io/badge/Kaggle-AI_Intensive-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </div>
 
 <br />
